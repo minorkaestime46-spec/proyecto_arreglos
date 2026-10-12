@@ -1,4 +1,4 @@
-# sistema_calificaciones-.py
+# sistema_calificaciones.py
 sistema de calificaciones proyectp
 
 ## Descripción
